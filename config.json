@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervync",
+        "uuid": 13213536,
+        "checksum": "xs6vo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
